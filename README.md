@@ -30,4 +30,4 @@ To create an optimised version of the page:
 npm run build
 ```
 
-You can run the newly built app with `npm run start`. To deploy on production, you'll need to upload the new bundled files in the Timberwolves AWS server, and make sure files are being referenced in your Drupal blank slate page.
+You can run the newly built app with `npm run start`. To deploy on production, you'll need to upload the new bundled files in the Timberwolves AWS server. Copy the index.html file in `public` and paste it into the text editor in your Drupal blank slate page. Make sure file references are all matching correctly.
