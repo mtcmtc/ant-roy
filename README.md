@@ -20,7 +20,7 @@ npm install
 npm run dev
 ```
 
-Navigate to [localhost:5000](http://localhost:5000). You should see the page running. Edit a component file in `src`, save it, and reload the page to see your changes.
+Navigate to [localhost:5000](http://localhost:5000). You should see the page running. Edit a component file in `src`, save it, and reload the page to see your changes. Styling updates can be made int `Tailwind.svelte`.
 
 ## Building and running in production mode
 
