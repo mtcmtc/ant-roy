@@ -1,11 +1,6 @@
 <script>
     import SectionTemplate from './SectionTemplate.svelte'
     import GalleryItem from './GalleryItem.svelte'
-    // Import Swiper Svelte components
-    import { Swiper, SwiperSlide } from 'swiper/svelte';
-
-    // Import Swiper styles
-    import 'swiper/swiper.scss';
 
     export let items
     export let direction = 'horizontal';

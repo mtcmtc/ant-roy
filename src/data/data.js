@@ -52,10 +52,10 @@ export default {
 			title : "Additional Stats",
 			data : [
 				{
-					stat: "<p>On Tuesday May 4, Anthony Edwards was named the <strong>Kia NBA Western Conference Rookie of the Month for April</strong>, becoming the third Timberwolves player to win the award multiple times, joining Karl-Anthony Towns (November, December 2015, January, February, March, April 2016) and Andrew Wiggins (November, December 2014, January, February, April 2015). Edwards, who led the Timberwolves to an 8-8 record in April, ended the month <strong>scoring 345 points, grabbing 82 rebounds and handing out 53 assists</strong>. The last rookie to reach those levels in all three categories in one calendar month was Blake Griffin in January 2011 (364 points, 188 rebounds, 61 assists). The only other Timberwolves rookie to have a month like that was Christian Laettner in March 1993 (347 points, 193 rebounds, 70 assists). Edwards totaled <strong>44 three-pointers in April</strong>, the most by a rookie in the NBA in a single month, passing Landry Shamet who made 43 threes in March of 2019. Edwards averaged 21.6 points, 5.1 rebounds, 3.3 assists and 1.6 steals in 34.4 minutes per game in April. <strong>No other rookie in the NBA averaged 20+ points in April.</strong></p>"
+					stat: "<p>On Tuesday May 17, Anthony Edwards was named the <strong>Kia NBA Western Conference Rookie of the Month for May</strong>, becoming the third Timberwolves player to win the award multiple times (March and April 2021), joining Karl-Anthony Towns (November, December 2015, January, February, March, April 2016) and Andrew Wiggins (November, December 2014, January, February, April 2015). Edwards, who led the Timberwolves to an 8-8 record in April, ended the month <strong>scoring 345 points, grabbing 82 rebounds and handing out 53 assists</strong>. The last rookie to reach those levels in all three categories in one calendar month was Blake Griffin in January 2011 (364 points, 188 rebounds, 61 assists). The only other Timberwolves rookie to have a month like that was Christian Laettner in March 1993 (347 points, 193 rebounds, 70 assists). Edwards totaled <strong>44 three-pointers in April</strong>, the most by a rookie in the NBA in a single month, passing Landry Shamet who made 43 threes in March of 2019. Edwards averaged 21.6 points, 5.1 rebounds, 3.3 assists and 1.6 steals in 34.4 minutes per game in April. <strong>No other rookie in the NBA averaged 20+ points in April.</strong></p>"
 				},
-				{ 
-					stat: "<p>Edwards ranks in the <strong>top 10</strong> amongst rookies in multiple statistical categories, including first among rookies in points per game (18.9), tied for fourth in steals (1.2) and eighth in assists per game (2.8). Edwards also ranks <strong>first amongst rookies in total points (1247)</strong>, tied for first in total three-pointers among rookies (155), tied for second in total steals (77), third among rookies in total rebounds (307) and fifth in total assists (186).</p>"
+				{
+					stat: "<p>Edwards ranks in the <strong>top 10</strong> amongst rookies in multiple statistical categories, including first among rookies in points per game (18.9), tied for sixth in steals (1.1) and eighth in assists per game (2.9). Edwards also ranks first amongst rookies in total points (1288), second in total three-pointers among rookies (159), tied for second in total steals (77), third among rookies in total rebounds (323) and fifth in total assists (194).</p>"
 				},
 				{
 					stat: "<p>He recorded <strong>at least one steal in 25 straight games</strong> from Feb. 24-Apr.16, the longest ever run by a Timberwolves rookie (Pooh Richardson, 15 games twice in the 1989-90 season). Edwards’ 25 game streak with at least one steal was the <strong>second-longest by a rookie in NBA history</strong> (Chris Paul- 31 2005-06).</p>"
@@ -77,6 +77,9 @@ export default {
 				},
 				{
 					stat: "<p>With his eight three-pointers on May 5th vs. Memphis, Edwards set the Timberwolves rookie <strong>single-game record for most threes in a game</strong>. With his third trey of the night, he registered his 150th three-pointer of the season. At 19y-273d, he is the <strong>youngest player in NBA history to reach 150 threes.</strong></p>"
+				},
+				{
+					stat: "<p>Edwards currently has 32 20+ point games this season, leading all NBA rookies. The Timberwolves rookie record for 20+ point games is 33 by Christian Laettner in 1993.</p>"
 				},
 			],
 		},
