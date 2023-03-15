@@ -32,5 +32,5 @@
 </script>
 
 <Section index={1} title={title} id={id} desc={desc} img={img} centered={true}>
-    <button slot="cta" on:click={handleClick} class="w-full max-w-200px mx-auto mt-4 duration-200 hover:opacity-90 focus:outline-none transform scale-100 active:scale-95 scroll-reveal"><img alt="press button to hear sound clips from anthony edwards" src="https://www.nba.com/resources/static/team/v2/timberwolves/projects/2020-21/tw21_roy/button-face.svg"></button>
+    <button slot="cta" on:click={handleClick} class="w-full max-w-200px mx-auto mt-4 duration-200 hover:opacity-90 focus:outline-none transform scale-100 active:scale-95 scroll-reveal"><img alt="press button to hear sound clips from anthony edwards" src="media/button-face.svg"></button>
 </Section>

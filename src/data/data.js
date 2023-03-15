@@ -1,12 +1,12 @@
 export default {
 	title: "A1 from Day 1",
 	logo: {
-		src: "https://www.nba.com/resources/static/team/v2/timberwolves/projects/2020-21/tw21_roy/lockup.svg",
+		src: "media/lockup.svg",
 		alt: "a1 from day 1"
 	},
 	header: {
 		id: "header",
-		src: "https://www.nba.com/resources/static/team/v2/timberwolves/projects/2020-21/tw21_roy/header.svg",
+		src: "media/header.svg",
 		alt: "anthony edwards",
 		video: "ceyCVwQumec"
 	},
@@ -15,35 +15,35 @@ export default {
 			title: "1,000 Points",
 			id: "points",
 			desc: "Fifth-youngest player in NBA history to reach 1,000 behind LeBron James, Kobe Bryant, Kevin Durant and Devin Booker.",
-			img: "https://www.nba.com/resources/static/team/v2/timberwolves/projects/2020-21/tw21_roy/tw21-roy_stat_points.jpg",
+			img: "media/tw21-roy_stat_points.jpg",
 			video: "bydLfdiNSzw",
 		},
 		{
 			title: "100 Triples",
 			id: "triples",
 			desc: "Third-youngest player in NBA history to connect on 100 three pointers behind Kobe Bryant and Kevin Knox.",
-			img: "https://www.nba.com/resources/static/team/v2/timberwolves/projects/2020-21/tw21_roy/tw21-roy_stat_triples.jpg",
+			img: "media/tw21-roy_stat_triples.jpg",
 			video: "vlDRn-TlnHM",
 		},
 		{
 			title: "42 Point Night",
 			id: "fortytwo",
 			desc: "His 42 points are the most ever by a Timberwolves rookie and became the third-youngest player in NBA history to score 40+ points behind LeBron James and Kevin Durant.",
-			img: "https://www.nba.com/resources/static/team/v2/timberwolves/projects/2020-21/tw21_roy/tw21-roy_stat_fortytwo.jpg",
+			img: "media/tw21-roy_stat_fortytwo.jpg",
 			video: "oo7rpG2IKEo",
 		},
 		{
 			title: "Memorable March",
-			id: "march",
+			id: "rotm",
 			desc: "His 24.2 ppg are third-most in a calendar month by a teenager in NBA history, trailing only Carmelo Anthony and Lebron James.",
-			img: "https://www.nba.com/resources/static/team/v2/timberwolves/projects/2020-21/tw21_roy/tw21-roy_stat_march.jpg",
+			img: "media/tw21-roy_stat_march.jpg",
 			video: "__M3-3tg6Pc",
 		},
 		{
 			title: "5 Game Span",
 			id: "fivegame",
 			desc: "Tallied 153 points over a five-game span from Mar. 11-18, the most points ever in a five-game stretch by a player 19 years or younger.​",
-			img: "https://www.nba.com/resources/static/team/v2/timberwolves/projects/2020-21/tw21_roy/tw21-roy_stat_fivegame.jpg",
+			img: "media/tw21-roy_stat_fivegame.jpg",
 			video: "_epzX4fSiZk",
 		}
 	],
@@ -115,12 +115,12 @@ export default {
 		title: "Hear the Sounds",
 		id: "soundboard",
 		desc: "The best of Ant from this season",
-		img: "https://www.nba.com/resources/static/team/v2/timberwolves/projects/2020-21/tw21_roy/hype.jpg",
+		img: "media/hype.jpg",
 		audio: [
-			"https://www.nba.com/resources/static/team/v2/timberwolves/projects/2020-21/tw21_roy/A1fromDay1.mp3",
-			"https://www.nba.com/resources/static/team/v2/timberwolves/projects/2020-21/tw21_roy/CleanupAisle3.mp3",
-			"https://www.nba.com/resources/static/team/v2/timberwolves/projects/2020-21/tw21_roy/ILikeYourAccent.mp3",
-			"https://www.nba.com/resources/static/team/v2/timberwolves/projects/2020-21/tw21_roy/WhateverYouNeedMetoPlay.mp3",
+			"media/A1fromDay1.mp3",
+			"media/CleanupAisle3.mp3",
+			"media/ILikeYourAccent.mp3",
+			"media/WhateverYouNeedMetoPlay.mp3",
 		]
 	}
 }
